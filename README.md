@@ -76,12 +76,6 @@ The initial development priorities are:
 6. Prepare an initial public alpha release.
 7. Evaluate additional language implementations.
 
-## Contributing
-
-Atomic Flow welcomes constructive feedback, technical discussion, bug reports, and contributions.
-During early development, please open an issue to discuss significant behavioral or architectural changes before starting a major implementation.
-A more detailed contribution guide will be added as the project evolves.
-
 ## Security
 
 Please do not publish potentially exploitable security vulnerabilities in public issues.
@@ -92,3 +86,9 @@ Please do not publish potentially exploitable security vulnerabilities in public
 Atomic Flow is licensed under the **Apache License, Version 2.0**.
 
 See the [LICENSE](LICENSE) file for the full license terms.
+
+> **Contributions are temporarily restricted.**
+>
+> Atomic Flow is currently in its early architectural development phase. External contributions are not yet accepted while the foundational contracts and APIs are being established.
+>
+> Contributions will be welcomed as the project matures. Thank you for your interest!
